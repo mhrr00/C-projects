@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1713101092 source:c:\users\21656\desktop\tp_asd\lstphrase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ELTPRIM.h"
+	"ELTPRIM1.h"
+	"ELTPRIM2.h"
+	"PILEPTR.h"
+	"ELTINT.h"
+	"ELTINT1.h"
+
+1712131102 source:c:\users\21656\desktop\tp_asd\lstphrase\eltchar.c
+	<stdio.h>
+	"ELTPRIM.h"
+
+1711326680 c:\users\21656\desktop\tp_asd\lstphrase\eltprim.h
+	"ELTSDD.h"
+
+1712376393 c:\users\21656\desktop\tp_asd\lstphrase\eltsdd.h
+	"ELTCHAR.h"
+
+1711394696 c:\users\21656\desktop\tp_asd\lstphrase\eltchar.h
+	"ELTPRIM.h"
+
+1711403972 source:c:\users\21656\desktop\tp_asd\lstphrase\lstprim.c
+	"LSTPRIM.h"
+	<stdlib.h>
+	"malloc.h"
+	"ELTPRIM.h"
+
+1711325497 c:\users\21656\desktop\tp_asd\lstphrase\lstprim.h
+	"ELTPRIM.H"
+
+1712672058 source:c:\users\21656\desktop\tp_asd\lstphrase\pileptr.c
+	<stdlib.h>
+	<stdio.h>
+	"ELTPRIM1.H"
+	"PILEPRIM.H"
+
+1712671835 c:\users\21656\desktop\tp_asd\lstphrase\eltprim1.h
+	"ELTSDD1.H"
+
+1712671854 c:\users\21656\desktop\tp_asd\lstphrase\eltsdd1.h
+	"ELTINT.H"
+
+1712671883 c:\users\21656\desktop\tp_asd\lstphrase\eltint.h
+
+1712672272 c:\users\21656\desktop\tp_asd\lstphrase\pileprim.h
+	"ELTPRIM1.h"
+	"PILESDD.h"
+
+1712671984 c:\users\21656\desktop\tp_asd\lstphrase\pilesdd.h
+	"PILEPTR.H"
+
+1712672006 c:\users\21656\desktop\tp_asd\lstphrase\pileptr.h
+	"ELTPRIM1.h"
+
+1713038180 source:c:\users\21656\desktop\tp_asd\lstphrase\eltint.c
+	<stdio.h>
+	<stdlib.h>
+	"ELTPRIM1.H"
+
+1712924322 source:c:\users\21656\desktop\tp_asd\lstphrase\eltint1.c
+	<stdio.h>
+	"ELTPRIM2.h"
+
+1712867247 c:\users\21656\desktop\tp_asd\lstphrase\eltprim2.h
+	"ELTSDD2.h"
+
+1712867609 c:\users\21656\desktop\tp_asd\lstphrase\eltsdd2.h
+	"ELTINT1.h"
+
+1712923711 c:\users\21656\desktop\tp_asd\lstphrase\eltint1.h
+	"ELTPRIM2.h"
+
+1712867726 source:c:\users\21656\desktop\tp_asd\lstphrase\lstprim1.c
+	"lstprim1.h"
+	<stdlib.h>
+	"malloc.h"
+	"ELTPRIM2.h"
+
+1712867701 c:\users\21656\desktop\tp_asd\lstphrase\lstprim1.h
+	"ELTPRIM2.H"
+
+1712131102 source:c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\eltchar.c
+	<stdio.h>
+	"ELTPRIM.h"
+
+1711326680 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\eltprim.h
+	"ELTSDD.h"
+
+1712376393 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\eltsdd.h
+	"ELTCHAR.h"
+
+1711394696 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\eltchar.h
+	"ELTPRIM.h"
+
+1713038180 source:c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\eltint.c
+	<stdio.h>
+	<stdlib.h>
+	"ELTPRIM1.H"
+
+1712671835 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\eltprim1.h
+	"ELTSDD1.H"
+
+1712671854 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\eltsdd1.h
+	"ELTINT.H"
+
+1713393321 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\eltint.h
+	"ELTPRIM1.h"
+
+1713387894 source:c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\eltint1.c
+	<stdio.h>
+	"ELTPRIM2.h"
+
+1712867247 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\eltprim2.h
+	"ELTSDD2.h"
+
+1712867609 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\eltsdd2.h
+	"ELTINT1.h"
+
+1712923711 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\eltint1.h
+	"ELTPRIM2.h"
+
+1711403972 source:c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\lstprim.c
+	"LSTPRIM.h"
+	<stdlib.h>
+	"malloc.h"
+	"ELTPRIM.h"
+
+1711325497 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\lstprim.h
+	"ELTPRIM.H"
+
+1713387912 source:c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\lstprim1.c
+	"lstprim1.h"
+	<stdlib.h>
+	"malloc.h"
+	"ELTPRIM2.h"
+
+1712867701 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\lstprim1.h
+	"ELTPRIM2.H"
+
+1713393582 source:c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"ELTPRIM.h"
+	"ELTPRIM1.h"
+	"ELTPRIM2.h"
+	"ELTINT.h"
+	"ELTINT1.h"
+
+1712672006 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\pileptr.h
+	"ELTPRIM1.h"
+
+1712672058 source:c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\pileptr.c
+	<stdlib.h>
+	<stdio.h>
+	"ELTPRIM1.H"
+	"PILEPRIM.H"
+
+1713393574 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\pileprim.h
+	"ELTPRIM1.h"
+
+1712671984 c:\users\raja\downloads\lstphrase-20240415t235257z-001\lstphrase\pilesdd.h
+	"PILEPTR.H"
+
+1713420001 source:c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\eltchar.c
+	<stdio.h>
+	"ELTPRIM.h"
+
+1713420001 c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\eltprim.h
+	"ELTSDD.h"
+
+1713420000 c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\eltsdd.h
+	"ELTCHAR.h"
+
+1713420001 c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\eltchar.h
+	"ELTPRIM.h"
+
+1713420001 source:c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\eltint.c
+	<stdio.h>
+	<stdlib.h>
+	"ELTPRIM1.H"
+
+1713420002 c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\eltprim1.h
+	"ELTSDD1.H"
+
+1713420001 c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\eltsdd1.h
+	"ELTINT.H"
+
+1713420001 c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\eltint.h
+	"ELTPRIM1.h"
+
+1713420001 source:c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\eltint1.c
+	<stdio.h>
+	"ELTPRIM2.h"
+
+1713420001 c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\eltprim2.h
+	"ELTSDD2.h"
+
+1713420001 c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\eltsdd2.h
+	"ELTINT1.h"
+
+1713420001 c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\eltint1.h
+	"ELTPRIM2.h"
+
+1713420002 source:c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\lstprim.c
+	"LSTPRIM.h"
+	<stdlib.h>
+	"malloc.h"
+	"ELTPRIM.h"
+
+1713420001 c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\lstprim.h
+	"ELTPRIM.H"
+
+1713420001 source:c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\lstprim1.c
+	"lstprim1.h"
+	<stdlib.h>
+	"malloc.h"
+	"ELTPRIM2.h"
+
+1713420001 c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\lstprim1.h
+	"ELTPRIM2.H"
+
+1713420002 source:c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"ELTPRIM.h"
+	"ELTPRIM1.h"
+	"ELTPRIM2.h"
+	"ELTINT.h"
+	"ELTINT1.h"
+
+1713420001 source:c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\pileptr.c
+	<stdlib.h>
+	<stdio.h>
+	"ELTPRIM1.H"
+	"PILEPRIM.H"
+
+1713420001 c:\users\21656\downloads\lstphrase-20240418t055744z-001\lstphrase\pileprim.h
+	"ELTPRIM1.h"
+
